@@ -209,11 +209,3 @@ My **Hyprland + Quickshell** desktop rice — QML widgets, GLSL shaders, Lua & s
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nevil-sanish&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
