@@ -206,6 +206,4 @@ My **Hyprland + Quickshell** desktop rice — QML widgets, GLSL shaders, Lua & s
 
 <img src="https://streak-stats.demolab.com/?user=nevil-sanish&theme=tokyonight&hide_border=true"/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nevil-sanish&theme=tokyo-night&hide_border=true&area=true"/>
-
 </div>
