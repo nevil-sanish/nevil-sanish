@@ -202,31 +202,6 @@ My **Hyprland + Quickshell** desktop rice — QML widgets, GLSL shaders, Lua & s
 
 ---
 
-## 🔀 Open Source & Pull Requests
-
-<table>
-<tr>
-<th>🏢 Repository</th>
-<th>✨ What I shipped</th>
-<th>Status</th>
-</tr>
-<tr>
-<td><b><a href="https://github.com/AnitaGeorge404/Qiskit-fall-fest-website">Qiskit-fall-fest-website</a></b></td>
-<td>
-⚛️ Built v1 → v1.1 of the <b>Qiskit Fall Fest</b> site<br/>
-✨ Animated stroke-text hero, dynamic net background, 3D model for Vercel deploy
-</td>
-<td><img src="https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git-merge&logoColor=white"/></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/albertmartinjoseph/Xanamedtecweb">Xanamedtecweb</a></b></td>
-<td>🩺 Full rework of the site — Next.js + Keystatic CMS + Tailwind</td>
-<td><img src="https://img.shields.io/badge/open-238636?style=flat-square&logo=git-pull-request&logoColor=white"/></td>
-</tr>
-</table>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
