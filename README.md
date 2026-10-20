@@ -27,11 +27,6 @@
 I'm **Nevil** — a builder who likes taking an idea from a blank repo to something real people use.
 I live at the intersection of **full-stack engineering**, **applied AI** and **DevOps**.
 
-- 🧠 Turning LLMs & vision models into *products*, not demos — Gemini, Groq, PaddleOCR, ONNX, Transformers.js
-- ⚡ Backends in **FastAPI / Express**, frontends in **React / Next.js** with GSAP & Three.js polish
-- 🐳 Containerising and **hardening Docker images** (Trivy-clean, slim runtime)
-- 🏆 Hackathon regular — **Smart India Hackathon**, Techfests, Qiskit Fall Fest, fresher's fest platforms
-- 🐧 Daily-drives **Arch (CachyOS) + Hyprland** and builds his own desktop tools (Circle to Search for Linux!)
 
 </td>
 <td width="40%" valign="top">
