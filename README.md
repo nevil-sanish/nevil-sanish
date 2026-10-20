@@ -29,7 +29,7 @@ I live at the intersection of **full-stack engineering**, **applied AI** and **D
 
 - 🧠 Turning LLMs & vision models into *products*, not demos — Gemini, Groq, PaddleOCR, ONNX, Transformers.js
 - ⚡ Backends in **FastAPI / Express**, frontends in **React / Next.js** with GSAP & Three.js polish
-- 🐳 Containerising and **hardening Docker images** (Trivy-clean, slim runtime) for production at **DSAI**
+- 🐳 Containerising and **hardening Docker images** (Trivy-clean, slim runtime)
 - 🏆 Hackathon regular — **Smart India Hackathon**, Techfests, Qiskit Fall Fest, fresher's fest platforms
 - 🐧 Daily-drives **Arch (CachyOS) + Hyprland** and builds his own desktop tools (Circle to Search for Linux!)
 
@@ -44,8 +44,8 @@ focus:
   - Scalable APIs
   - Docker / CI hardening
 currently:
-  - async query pipelines @ DSAI
   - circle-to-search-linux
+  - tele-bot-insta Android app
 os:       CachyOS + Hyprland
 coffee:   always
 ```
@@ -204,37 +204,11 @@ My **Hyprland + Quickshell** desktop rice — QML widgets, GLSL shaders, Lua & s
 
 ## 🔀 Open Source & Pull Requests
 
-<div align="center">
-
-[![PRs](https://img.shields.io/badge/Merged%20PRs-20%2B-8957e5?style=for-the-badge&logo=git-merge&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Anevil-sanish+is%3Amerged)
-[![Repos](https://img.shields.io/badge/Contributed%20to-4%20repos-0ea5e9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3Anevil-sanish)
-
-</div>
-
 <table>
 <tr>
 <th>🏢 Repository</th>
 <th>✨ What I shipped</th>
 <th>Status</th>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rohanrony/dsai-backend">dsai-backend</a></b></td>
-<td>
-⚡ <b>Async query backend</b> — non-blocking query execution pipeline<br/>
-🔔 <b>Notifications API</b> tracking query completions<br/>
-📄 Robust CSV ingestion: non-UTF-8, ragged rows, stray quotes, spacer rows<br/>
-📦 100 MB upload limit · Docker image build fixes
-</td>
-<td><img src="https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git-merge&logoColor=white"/></td>
-</tr>
-<tr>
-<td><b><a href="https://github.com/rohanrony/dsai-frontend">dsai-frontend</a></b></td>
-<td>
-⚡ <b>Async query UI</b> + notify-when-done for off-screen chats<br/>
-🗄️ Migrated notification store to backend persistence<br/>
-🐳 <b>Dockerised & hardened</b> the image — resolved Trivy CVEs, stripped npm/yarn, esbuild & sentry-cli from runtime
-</td>
-<td><img src="https://img.shields.io/badge/merged-8957e5?style=flat-square&logo=git-merge&logoColor=white"/></td>
 </tr>
 <tr>
 <td><b><a href="https://github.com/AnitaGeorge404/Qiskit-fall-fest-website">Qiskit-fall-fest-website</a></b></td>
@@ -263,9 +237,6 @@ My **Hyprland + Quickshell** desktop rice — QML widgets, GLSL shaders, Lua & s
 <img src="https://streak-stats.demolab.com/?user=nevil-sanish&theme=tokyonight&hide_border=true"/>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=nevil-sanish&theme=tokyo-night&hide_border=true&area=true"/>
-
-### 🏆 Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=nevil-sanish&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
